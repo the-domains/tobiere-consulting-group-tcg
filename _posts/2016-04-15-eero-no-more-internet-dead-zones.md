@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-07T02:56:02.292Z'
+datePublished: '2016-11-07T12:39:47.708Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-07T02:56:02.016Z'
+dateModified: '2016-11-07T12:39:47.032Z'
 title: Prepared
 app_links: []
 publisher: {}
