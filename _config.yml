@@ -27,3 +27,6 @@ purpose:
   - type: contact
     url: 'mailto:dtobiere@tobiereconsultgroup.com'
     label: Contact the Group
+  - type: internal
+    label: Portfolio
+    item: dab223d0-c6d9-4c14-a4e3-13345099a334
