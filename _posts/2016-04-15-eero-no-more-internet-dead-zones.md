@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-07T02:27:31.407Z'
+datePublished: '2016-11-07T02:30:11.685Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
 authors: []
@@ -18,13 +18,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-07T02:27:30.802Z'
-title: 'Clients:'
+dateModified: '2016-11-07T02:30:11.289Z'
+title: Prepared
 app_links: []
 publisher: {}
-description: >-
-  Complex projects prepares The Group with the Agility to pivot our approach to
-  meet Non-Federal business landscape.
+description: 'Clients:'
 inLanguage: en
 starred: false
 url: prepared/index.html
@@ -34,7 +32,7 @@ _type: MediaObject
 ---
 ![Complex projects prepares The Group with the Agility to pivot our approach to meet Non-Federal business landscape.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43cfb110-7074-45bd-9634-934da1589720.jpg)
 
-## **Clients:**
+**Clients:**
 
 * Federal Emergency Management Agency (FEMA)
 * Internal Revenue Service (IRS)
