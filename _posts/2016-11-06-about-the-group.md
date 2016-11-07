@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-07T14:06:52.016Z'
+datePublished: '2016-11-07T14:07:40.242Z'
 sourcePath: _posts/2016-11-06-about-the-group.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T14:06:51.669Z'
+dateModified: '2016-11-07T14:07:39.930Z'
 title: About the Group
 publisher: {}
 description: ''
