@@ -1,14 +1,26 @@
-layout_spectrum: 0.3826502007432282
-typography_spectrum: 0.1069592204876244
+typography_spectrum: 0.16836903233966322
 color:
-  brandStrength: 0.39309196220710874
-  lightness: 0.29184518405236304
-  saturation: 0.9761256605852395
-  rhythmicContrast: 0.5237961520906538
+  brandStrength: 0.08919192349123262
+  lightness: 0.6206965058994027
+  saturation: 0.4313075133227734
+  rhythmicContrast: 0.9832972057285433
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+github: true
+layout_spectrum: 0.07976222811386653
 name: Tobiere Consulting Group (TCG)
+navigation:
+  - name: The Group
+    id: 93b6b05f-706e-49a9-a003-e5b104351326
+    type: content
+title: Innovative Application of Cloud Services to create Efficiency in the Workspace
+content: []
+description: Service Disabled Woman Owned Small Business (SDWOSB)
+purpose:
+  - type: contact
+    url: 'mailto:dtobiere@tobiereconsultgroup.com'
+    label: Contact the Group
