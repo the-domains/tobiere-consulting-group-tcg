@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-07T02:30:11.685Z'
+datePublished: '2016-11-07T02:45:27.416Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-07T02:30:11.289Z'
+dateModified: '2016-11-07T02:30:39.597Z'
 title: Prepared
 app_links: []
 publisher: {}
@@ -39,3 +39,5 @@ _type: MediaObject
 * Department of Labor
 * U.S. Air Force Help Desk - Pentagon
 * National Military Command - Pentagon
+
+---
