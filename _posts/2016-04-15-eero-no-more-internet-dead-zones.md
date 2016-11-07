@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-07T02:45:27.416Z'
+datePublished: '2016-11-07T02:50:26.771Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-07T02:30:39.597Z'
+dateModified: '2016-11-07T02:50:26.470Z'
 title: Prepared
 app_links: []
 publisher: {}
@@ -30,7 +30,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Complex projects prepares The Group with the Agility to pivot our approach to meet Non-Federal business landscape.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43cfb110-7074-45bd-9634-934da1589720.jpg)
+![Complexity of various projects allows us to apply Agile approach to support both Federal and Commercial Non-Federal business landscape.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43cfb110-7074-45bd-9634-934da1589720.jpg)
 
 **Clients:**
 
