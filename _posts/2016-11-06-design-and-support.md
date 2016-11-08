@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-08T20:27:04.583Z'
+datePublished: '2016-11-08T20:31:24.799Z'
 sourcePath: _posts/2016-11-06-design-and-support.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-08T20:27:04.394Z'
+dateModified: '2016-11-08T20:31:24.175Z'
 title: 'Ideate, Design, Deliver, & Support'
 publisher: {}
 description: >-
@@ -18,6 +18,8 @@ url: ideate-design-deliver-and-support/index.html
 _type: Article
 
 ---
+---
+
 # Ideate, Design, Deliver, & Support
 ![We improve your business efficiency - Ideate, Design, Deliver and Support.
 Our multidisciplinary group has supported complex SalesForce solution projects across the Federal Government landscape.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02f21cbe-7775-4bc1-ba38-00079bacf41c.jpg)
