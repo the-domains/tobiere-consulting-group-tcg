@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-07T14:09:53.249Z'
+datePublished: '2016-11-08T20:30:48.480Z'
 sourcePath: _posts/2016-11-06-about-the-group.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T14:09:52.864Z'
+dateModified: '2016-11-08T20:30:48.129Z'
 title: About the Group
 publisher: {}
 description: ''
@@ -14,6 +14,8 @@ url: about-the-group/index.html
 _type: Blurb
 
 ---
+---
+
 # About the Group
 
 * **CEO:** Donelly J. Tobiere
