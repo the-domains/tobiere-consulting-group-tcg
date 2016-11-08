@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-08T20:31:07.341Z'
+datePublished: '2016-11-08T20:34:04.613Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-11-08T20:31:07.069Z'
+dateModified: '2016-11-08T20:34:04.364Z'
 title: Prepared
 app_links: []
 publisher: {}
@@ -30,9 +30,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
----
-
-# Prepared
 ![Complexity of various projects allows us to apply Agile approach to support both Federal and Commercial Non-Federal business landscape.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43cfb110-7074-45bd-9634-934da1589720.jpg)
 
 **Clients:**
@@ -42,6 +39,8 @@ _type: MediaObject
 * Department of Labor
 * U.S. Air Force Help Desk - Pentagon
 * National Military Command - Pentagon
+
+---
 
 ---
 
