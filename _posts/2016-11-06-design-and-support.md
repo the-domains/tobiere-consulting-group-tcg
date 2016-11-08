@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-07T14:00:07.260Z'
+datePublished: '2016-11-08T20:02:30.490Z'
 sourcePath: _posts/2016-11-06-design-and-support.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-07T14:00:06.810Z'
+dateModified: '2016-11-08T20:02:30.260Z'
 title: 'Ideate, Design, Deliver, & Support'
 publisher: {}
 description: >-
